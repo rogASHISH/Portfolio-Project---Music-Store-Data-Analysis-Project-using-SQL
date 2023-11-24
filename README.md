@@ -4,9 +4,9 @@
 This project focuses on analyzing music store data using SQL to extract insights, improve efficiency, and enhance decision-making.
 
 ## Features
-1.SQL queries for data extraction and analysis
-2.Comprehensive database schema
-3.Insights for business optimization
+1. SQL queries for data extraction and analysis
+2. Comprehensive database schema
+3. Insights for business optimization
 
 ## Database and Tools
 1. Postresql
