@@ -1,0 +1,9 @@
+# Portfolio-Project---Music-Store-Data-Analysis-Project-using-SQL
+*Database and Tools*
+1. Postresql
+2. pgadmin4
+
+ Schema- Music Store Database
+ 
+
+ ![1](https://github.com/rogASHISH/Portfolio-Project---Music-Store-Data-Analysis-Project-using-SQL/assets/151386180/e87d0e70-506e-42d0-9f72-85b0d3a86c0e)
