@@ -18,4 +18,4 @@ This project focuses on analyzing music store data using SQL to extract insights
  ![1](https://github.com/rogASHISH/Portfolio-Project---Music-Store-Data-Analysis-Project-using-SQL/assets/151386180/e87d0e70-506e-42d0-9f72-85b0d3a86c0e)
 
  ## License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. (licence)
